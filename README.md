@@ -11,7 +11,8 @@ Classification on Transcription Factor Binding and Non-binding sites
 
 ### Results
 - Obtained 70.16% Validation set accuracy
-![Could not display. Check design/SequenceDiag.png](/design/Training and Validation .png?raw=true "Results")
+![Could not display. Check TVLossAndAccuracy.png](/TVLossAndAccuracy.png?raw=true "Results")
 
 ### References
 - Followed <a href="design/Programming-Assignment-3-Genomics.pdf">Assignment Instructions</a>
+
